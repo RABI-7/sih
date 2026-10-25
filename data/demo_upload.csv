@@ -1,0 +1,14 @@
+Student Name,APAAR ID,Programme,Academic Year,Admission Date,Admission Category,Test_Case_Description
+Aarav Sharma,900000000501,B.Tech Computer Science & Engineering,2024-2025,2024-08-01,General,TEST 1: Valid 12-digit APAAR ID passing all checks
+Pooja Verma,,B.Tech Electronics & Communication Engineering,2024-2025,2024-08-01,OBC,TEST 2: Deliberately missing APAAR ID
+Kunal Deshmukh,90123456789,B.Tech Mechanical Engineering,2024-2025,2024-08-02,General,TEST 3: 11-digit APAAR ID (format violation)
+Priyanka Saxena,9012-ABCD-7890,B.Tech Computer Science & Engineering,2024-2025,2024-08-02,General,TEST 4: Non-numeric invalid APAAR format
+Sameer Joshi,900000000505,B.Tech Information Technology,2024-2025,2024-08-03,General,TEST 5A: First entry of in-batch duplicate
+Sameer Joshi (Duplicate),900000000505,B.Tech Information Technology,2024-2025,2024-08-03,General,TEST 5B: Duplicate APAAR repeated in batch
+Saanvi Mehta,900000000510,B.Tech Electrical & Electronics Engineering,2024-2025,2024-08-03,ST,TEST 6: Authoritative mock registry matched record
+Devendra Singhania,900000000999,B.Tech Computer Science & Engineering,2024-2025,2024-08-04,General,TEST 7: Cross-college dual enrollment with INST-002
+Vikram Rathore,900000000512,B.Tech Electrical & Electronics Engineering,2024-2025,2024-08-04,General,TEST 8: Capacity utilization and intake tracking
+Rohan Sharma,900000000515,B.Tech Civil Engineering,2024-2025,2024-08-04,General,TEST 9: Academic programme / counselling discrepancy
+Neha Bhatnagar,900000000599,B.Tech Computer Science & Engineering,2024-2025,2024-08-05,General,TEST 10: Missing examination / fee payment reconciliation
+Amitabh Roy,900000000598,B.Tech Aeronautical Engineering,2024-2025,2024-08-05,Management,TEST 11: High-risk multi-flag cluster
+Tanvi Pillai,900000000520,B.Tech Computer Science & Engineering,2024-2025,2024-08-05,General,TEST 12: Completely valid clean record

@@ -1,0 +1,601 @@
+apaar_id,student_name,allotted_college_code,allotted_programme,counselling_round,quota,state_rank
+900000000001,Ayaan Sharma,INST-003,B.Tech Computer Science & Engineering,Round 3,EWS,5817
+900000000002,Kabir Chopra,INST-003,B.Tech Information Technology,Round 2,General,10583
+900000000003,Kabir Chatterjee,INST-002,B.Tech Mechanical Engineering,Round 3,SC,2967
+900000000004,Sai Deshmukh,INST-003,B.Tech Electronics & Communication Engineering,Round 1,General,43456
+900000000005,Rohan Das,INST-001,B.Tech Mechanical Engineering,Round 2,SC,13850
+900000000006,Nikhil Singh,INST-002,B.Tech Information Technology,Round 2,EWS,14512
+900000000007,Rohan Ghosh,INST-003,B.Tech Electronics & Communication Engineering,Round 3,SC,14054
+900000000008,Ishaan Joshi,INST-002,B.Tech Civil Engineering,Round 3,ST,23843
+900000000009,Isha Patel,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,ST,39206
+900000000010,Meera Joshi,INST-002,B.Tech Civil Engineering,Round 3,SC,7430
+900000000011,Aarav Banerjee,INST-003,B.Tech Computer Science & Engineering,Round 2,EWS,40029
+900000000012,Aanya Chatterjee,INST-002,B.Tech Computer Science & Engineering,Round 2,OBC,3916
+900000000013,Sai Banerjee,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,OBC,17490
+900000000014,Kabir Sen,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,EWS,29708
+900000000015,Navya Sharma,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,OBC,4537
+900000000016,Isha Chopra,INST-003,B.Tech Electronics & Communication Engineering,Round 3,EWS,31096
+900000000017,Dhruv Malhotra,INST-002,B.Tech Information Technology,Round 3,General,44249
+900000000018,Reyansh Chopra,INST-001,B.Tech Information Technology,Round 2,ST,16491
+900000000019,Vihaan Singh,INST-002,B.Tech Information Technology,Round 2,OBC,26402
+900000000020,Sara Joshi,INST-002,B.Tech Electronics & Communication Engineering,Round 1,General,38077
+900000000021,Vihaan Kulkarni,INST-001,B.Tech Civil Engineering,Round 1,General,39116
+900000000022,Ira Malhotra,INST-002,B.Tech Computer Science & Engineering,Round 3,EWS,37162
+900000000023,Kabir Kaur,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,ST,20840
+900000000024,Arjun Deshmukh,INST-001,B.Tech Computer Science & Engineering,Round 2,SC,10458
+900000000025,Manish Bose,INST-001,B.Tech Computer Science & Engineering,Round 2,General,7134
+900000000026,Navya Mehta,INST-003,B.Tech Computer Science & Engineering,Round 2,SC,3009
+900000000027,Diya Saxena,INST-001,B.Tech Computer Science & Engineering,Round 1,OBC,35875
+900000000028,Avni Bhatia,INST-003,B.Tech Electronics & Communication Engineering,Round 1,General,23298
+900000000029,Ananya Das,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,OBC,17605
+900000000030,Sara Das,INST-002,B.Tech Mechanical Engineering,Round 1,OBC,1670
+900000000031,Arjun Chatterjee,INST-002,B.Tech Civil Engineering,Round 1,General,17238
+900000000032,Aditya Malhotra,INST-003,B.Tech Civil Engineering,Round 1,ST,37907
+900000000033,Aarav Shah,INST-003,B.Tech Mechanical Engineering,Round 2,General,19801
+900000000034,Anushka Menon,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,OBC,40458
+900000000035,Pari Kapoor,INST-002,B.Tech Information Technology,Round 3,OBC,33620
+900000000036,Sai Kapoor,INST-001,B.Tech Mechanical Engineering,Round 1,OBC,1720
+900000000037,Manish Das,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,ST,16109
+900000000038,Reyansh Chatterjee,INST-001,B.Tech Civil Engineering,Round 1,ST,8858
+900000000039,Sneha Patil,INST-002,B.Tech Information Technology,Round 2,OBC,41909
+900000000040,Prisha Singh,INST-001,B.Tech Mechanical Engineering,Round 2,SC,21072
+900000000041,Sara Mukherjee,INST-002,B.Tech Information Technology,Round 3,ST,27368
+900000000042,Sara Dutta,INST-002,B.Tech Mechanical Engineering,Round 2,ST,35392
+900000000043,Avni Patel,INST-002,B.Tech Electronics & Communication Engineering,Round 1,EWS,35124
+900000000044,Sai Singh,INST-002,B.Tech Computer Science & Engineering,Round 2,SC,13991
+900000000045,Saanvi Chatterjee,INST-003,B.Tech Computer Science & Engineering,Round 3,General,23055
+900000000046,Vivaan Chopra,INST-002,B.Tech Electronics & Communication Engineering,Round 3,General,37080
+900000000047,Myra Saxena,INST-002,B.Tech Computer Science & Engineering,Round 3,ST,26115
+900000000048,Reyansh Mukherjee,INST-002,B.Tech Computer Science & Engineering,Round 3,ST,43473
+900000000049,Aarav Das,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,OBC,28660
+900000000050,Manish Bose,INST-001,B.Tech Electronics & Communication Engineering,Round 2,ST,16101
+900000000051,Navya Sharma,INST-002,B.Tech Mechanical Engineering,Round 2,SC,39189
+900000000052,Dhruv Gupta,INST-003,B.Tech Electronics & Communication Engineering,Round 2,ST,29491
+900000000053,Ira Mukherjee,INST-003,B.Tech Civil Engineering,Round 2,ST,36190
+900000000054,Saanvi Kapoor,INST-003,B.Tech Computer Science & Engineering,Round 3,OBC,12672
+900000000055,Rahul Chatterjee,INST-002,B.Tech Electronics & Communication Engineering,Round 1,SC,1047
+900000000056,Vihaan Deshmukh,INST-003,B.Tech Computer Science & Engineering,Round 2,ST,31493
+900000000057,Diya Das,INST-001,B.Tech Information Technology,Round 3,General,10063
+900000000058,Sai Chopra,INST-003,B.Tech Civil Engineering,Round 1,EWS,25048
+900000000059,Rahul Reddy,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,OBC,17463
+900000000060,Pooja Gupta,INST-002,B.Tech Civil Engineering,Round 2,General,15290
+900000000061,Arjun Kaur,INST-003,B.Tech Computer Science & Engineering,Round 1,OBC,17528
+900000000062,Pari Patil,INST-003,B.Tech Mechanical Engineering,Round 2,SC,32918
+900000000063,Avni Banerjee,INST-003,B.Tech Electronics & Communication Engineering,Round 3,EWS,1479
+900000000064,Tanvi Shah,INST-001,B.Tech Information Technology,Round 2,SC,26881
+900000000065,Shaurya Nair,INST-003,B.Tech Information Technology,Round 1,ST,5891
+900000000066,Ira Das,INST-001,B.Tech Computer Science & Engineering,Round 3,SC,40924
+900000000067,Kabir Joshi,INST-003,B.Tech Computer Science & Engineering,Round 3,OBC,10499
+900000000068,Sai Chopra,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,SC,27349
+900000000069,Kavya Deshmukh,INST-002,B.Tech Mechanical Engineering,Round 2,EWS,17629
+900000000070,Rahul Kulkarni,INST-003,B.Tech Mechanical Engineering,Round 3,ST,29961
+900000000071,Simran Menon,INST-003,B.Tech Information Technology,Round 2,ST,43615
+900000000072,Krishna Shah,INST-002,B.Tech Civil Engineering,Round 1,OBC,26988
+900000000073,Navya Patil,INST-002,B.Tech Civil Engineering,Round 2,ST,35576
+900000000074,Aadhya Chopra,INST-003,B.Tech Electronics & Communication Engineering,Round 2,General,3134
+900000000075,Angel Pillai,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,OBC,5295
+900000000076,Prisha Sen,INST-003,B.Tech Mechanical Engineering,Round 1,ST,18970
+900000000077,Rahul Kapoor,INST-002,B.Tech Electronics & Communication Engineering,Round 2,General,15665
+900000000078,Aadhya Sharma,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,OBC,39904
+900000000079,Manish Joshi,INST-001,B.Tech Information Technology,Round 3,SC,8732
+900000000080,Riya Saxena,INST-002,B.Tech Civil Engineering,Round 1,SC,31698
+900000000081,Ayaan Rao,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,EWS,24091
+900000000082,Diya Deshmukh,INST-003,B.Tech Information Technology,Round 2,General,44346
+900000000083,Manish Chopra,INST-003,B.Tech Mechanical Engineering,Round 2,General,9280
+900000000084,Prisha Malhotra,INST-002,B.Tech Information Technology,Round 3,EWS,27587
+900000000085,Prisha Patil,INST-002,B.Tech Information Technology,Round 1,SC,6631
+900000000086,Vihaan Menon,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,EWS,1519
+900000000087,Krishna Bose,INST-001,B.Tech Electronics & Communication Engineering,Round 2,OBC,39178
+900000000088,Krishna Deshmukh,INST-002,B.Tech Computer Science & Engineering,Round 1,EWS,21338
+900000000089,Krishna Banerjee,INST-002,B.Tech Information Technology,Round 3,EWS,7266
+900000000090,Meera Kapoor,INST-002,B.Tech Information Technology,Round 3,General,32250
+900000000091,Anushka Patil,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,SC,25082
+900000000092,Nikhil Reddy,INST-001,B.Tech Information Technology,Round 2,SC,29840
+900000000093,Anushka Reddy,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,General,5714
+900000000094,Krishna Deshmukh,INST-002,B.Tech Computer Science & Engineering,Round 2,ST,3491
+900000000095,Reyansh Kulkarni,INST-002,B.Tech Computer Science & Engineering,Round 3,SC,7649
+900000000096,Pooja Chatterjee,INST-002,B.Tech Electronics & Communication Engineering,Round 3,SC,22390
+900000000097,Simran Kaur,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,27634
+900000000098,Pari Banerjee,INST-001,B.Tech Electronics & Communication Engineering,Round 3,General,44289
+900000000099,Prisha Patil,INST-002,B.Tech Computer Science & Engineering,Round 2,General,18682
+900000000100,Aditya Chopra,INST-001,B.Tech Mechanical Engineering,Round 1,SC,19089
+900000000101,Avni Saxena,INST-003,B.Tech Civil Engineering,Round 2,General,26142
+900000000102,Arjun Das,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,General,26664
+900000000103,Manish Rao,INST-003,B.Tech Information Technology,Round 2,EWS,5274
+900000000104,Rohan Nair,INST-001,B.Tech Civil Engineering,Round 2,SC,42419
+900000000105,Diya Mehta,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,EWS,38096
+900000000106,Anushka Bhatia,INST-002,B.Tech Mechanical Engineering,Round 3,General,23184
+900000000107,Sneha Verma,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,EWS,33351
+900000000108,Sneha Sen,INST-001,B.Tech Electronics & Communication Engineering,Round 2,General,22627
+900000000109,Aditya Chopra,INST-002,B.Tech Mechanical Engineering,Round 2,ST,22295
+900000000110,Arjun Nair,INST-003,B.Tech Mechanical Engineering,Round 3,EWS,9974
+900000000111,Angel Kapoor,INST-002,B.Tech Civil Engineering,Round 3,SC,8495
+900000000112,Isha Pillai,INST-002,B.Tech Mechanical Engineering,Round 1,OBC,9135
+900000000113,Isha Chatterjee,INST-001,B.Tech Information Technology,Round 1,OBC,41062
+900000000114,Riya Pillai,INST-001,B.Tech Information Technology,Round 3,OBC,20401
+900000000115,Myra Kaur,INST-003,B.Tech Civil Engineering,Round 2,OBC,13207
+900000000116,Tanvi Das,INST-001,B.Tech Computer Science & Engineering,Round 2,ST,33763
+900000000117,Rohan Ghosh,INST-003,B.Tech Information Technology,Round 2,OBC,25427
+900000000118,Anushka Sen,INST-001,B.Tech Electronics & Communication Engineering,Round 2,ST,9215
+900000000119,Sai Sharma,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,ST,7406
+900000000120,Vihaan Chopra,INST-002,B.Tech Computer Science & Engineering,Round 3,EWS,1197
+900000000121,Aadhya Reddy,INST-001,B.Tech Information Technology,Round 3,General,34427
+900000000122,Aanya Shah,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,SC,1184
+900000000123,Ananya Banerjee,INST-002,B.Tech Computer Science & Engineering,Round 3,SC,42246
+900000000124,Tanvi Singh,INST-001,B.Tech Mechanical Engineering,Round 1,OBC,2866
+900000000125,Ira Ghosh,INST-001,B.Tech Mechanical Engineering,Round 3,SC,18025
+900000000126,Ira Banerjee,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,EWS,17599
+900000000127,Avni Patil,INST-002,B.Tech Computer Science & Engineering,Round 3,SC,20206
+900000000128,Shaurya Mukherjee,INST-003,B.Tech Mechanical Engineering,Round 2,SC,42028
+900000000129,Myra Shah,INST-001,B.Tech Electronics & Communication Engineering,Round 1,SC,23853
+900000000130,Nikhil Bhatia,INST-001,B.Tech Civil Engineering,Round 3,SC,26205
+900000000131,Ayaan Sharma,INST-002,B.Tech Computer Science & Engineering,Round 2,ST,14182
+900000000132,Dhruv Malhotra,INST-001,B.Tech Information Technology,Round 3,SC,43887
+900000000133,Aadhya Dutta,INST-001,B.Tech Civil Engineering,Round 1,OBC,9221
+900000000134,Myra Deshmukh,INST-001,B.Tech Computer Science & Engineering,Round 2,ST,31489
+900000000135,Simran Gupta,INST-003,B.Tech Information Technology,Round 3,SC,8530
+900000000136,Avni Shah,INST-001,B.Tech Electronics & Communication Engineering,Round 2,OBC,22796
+900000000137,Diya Mehta,INST-001,B.Tech Civil Engineering,Round 3,OBC,38904
+900000000138,Simran Verma,INST-003,B.Tech Electronics & Communication Engineering,Round 2,EWS,41996
+900000000139,Aadhya Singh,INST-001,B.Tech Information Technology,Round 3,General,10479
+900000000140,Kabir Nair,INST-002,B.Tech Mechanical Engineering,Round 1,SC,33869
+900000000141,Ayaan Joshi,INST-002,B.Tech Mechanical Engineering,Round 3,ST,16390
+900000000142,Dhruv Chatterjee,INST-002,B.Tech Mechanical Engineering,Round 1,General,25891
+900000000143,Kabir Kulkarni,INST-003,B.Tech Civil Engineering,Round 3,ST,18846
+900000000144,Krishna Dutta,INST-002,B.Tech Computer Science & Engineering,Round 1,EWS,36939
+900000000145,Arjun Menon,INST-002,B.Tech Computer Science & Engineering,Round 2,SC,36678
+900000000146,Nikhil Shah,INST-003,B.Tech Electronics & Communication Engineering,Round 2,ST,34154
+900000000147,Krishna Nair,INST-003,B.Tech Mechanical Engineering,Round 3,EWS,32222
+900000000148,Myra Nair,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,EWS,31222
+900000000149,Vihaan Kulkarni,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,EWS,7322
+900000000150,Riya Bhatia,INST-002,B.Tech Civil Engineering,Round 3,General,9169
+900000000151,Tanvi Shah,INST-003,B.Tech Mechanical Engineering,Round 2,SC,40101
+900000000152,Saanvi Deshmukh,INST-003,B.Tech Electronics & Communication Engineering,Round 3,ST,20897
+900000000153,Aadhya Malhotra,INST-001,B.Tech Mechanical Engineering,Round 2,General,22819
+900000000154,Kabir Mehta,INST-003,B.Tech Computer Science & Engineering,Round 3,EWS,15801
+900000000155,Rohan Singh,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,OBC,459
+900000000156,Tanvi Singh,INST-001,B.Tech Computer Science & Engineering,Round 3,EWS,15338
+900000000157,Atharv Reddy,INST-003,B.Tech Electronics & Communication Engineering,Round 2,General,727
+900000000158,Navya Kapoor,INST-002,B.Tech Civil Engineering,Round 2,OBC,7502
+900000000159,Diya Mukherjee,INST-003,B.Tech Civil Engineering,Round 1,OBC,40159
+900000000160,Anushka Gupta,INST-002,B.Tech Information Technology,Round 1,General,17210
+900000000161,Navya Kapoor,INST-001,B.Tech Electronics & Communication Engineering,Round 3,General,30620
+900000000162,Pari Mukherjee,INST-001,B.Tech Electronics & Communication Engineering,Round 1,ST,10159
+900000000163,Riya Mukherjee,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,EWS,29398
+900000000164,Simran Malhotra,INST-001,B.Tech Civil Engineering,Round 1,SC,34221
+900000000165,Rahul Patel,INST-003,B.Tech Electronics & Communication Engineering,Round 2,ST,37076
+900000000166,Vivaan Menon,INST-001,B.Tech Computer Science & Engineering,Round 2,SC,4298
+900000000167,Tanvi Verma,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,SC,25186
+900000000168,Sara Gupta,INST-003,B.Tech Electronics & Communication Engineering,Round 2,EWS,8465
+900000000169,Pari Rao,INST-002,B.Tech Information Technology,Round 1,SC,12472
+900000000170,Manish Chatterjee,INST-001,B.Tech Civil Engineering,Round 2,EWS,44161
+900000000171,Ira Rao,INST-002,B.Tech Civil Engineering,Round 1,EWS,21019
+900000000172,Meera Chopra,INST-003,B.Tech Civil Engineering,Round 1,ST,36548
+900000000173,Sara Bose,INST-002,B.Tech Mechanical Engineering,Round 1,EWS,31152
+900000000174,Ishaan Bose,INST-003,B.Tech Civil Engineering,Round 1,ST,16035
+900000000175,Sneha Das,INST-002,B.Tech Mechanical Engineering,Round 3,EWS,39633
+900000000176,Rahul Banerjee,INST-001,B.Tech Computer Science & Engineering,Round 1,General,31506
+900000000177,Ira Sen,INST-003,B.Tech Information Technology,Round 3,SC,20332
+900000000178,Kavya Malhotra,INST-001,B.Tech Information Technology,Round 3,OBC,9683
+900000000179,Aadhya Bhatia,INST-002,B.Tech Electronics & Communication Engineering,Round 3,SC,16984
+900000000180,Kavya Saxena,INST-003,B.Tech Civil Engineering,Round 1,EWS,2336
+900000000181,Aarav Reddy,INST-001,B.Tech Electronics & Communication Engineering,Round 1,EWS,30005
+900000000182,Prisha Sharma,INST-003,B.Tech Computer Science & Engineering,Round 3,SC,35230
+900000000183,Atharv Malhotra,INST-003,B.Tech Civil Engineering,Round 2,SC,17639
+900000000184,Kavya Kulkarni,INST-003,B.Tech Computer Science & Engineering,Round 3,General,6247
+900000000185,Vihaan Singh,INST-003,B.Tech Information Technology,Round 2,EWS,6369
+900000000186,Kabir Dutta,INST-003,B.Tech Mechanical Engineering,Round 3,General,11874
+900000000187,Rahul Bhatia,INST-003,B.Tech Electronics & Communication Engineering,Round 2,EWS,21860
+900000000188,Sai Shah,INST-002,B.Tech Computer Science & Engineering,Round 3,EWS,39153
+900000000189,Vivaan Singh,INST-002,B.Tech Civil Engineering,Round 2,OBC,44664
+900000000190,Ananya Mukherjee,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,20873
+900000000191,Pari Rao,INST-002,B.Tech Electronics & Communication Engineering,Round 2,EWS,36475
+900000000192,Sai Pillai,INST-002,B.Tech Computer Science & Engineering,Round 2,ST,5670
+900000000193,Sara Saxena,INST-001,B.Tech Electronics & Communication Engineering,Round 1,ST,18205
+900000000194,Myra Joshi,INST-001,B.Tech Civil Engineering,Round 2,General,8999
+900000000195,Navya Ghosh,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,SC,21135
+900000000196,Ira Nair,INST-002,B.Tech Electronics & Communication Engineering,Round 2,SC,25871
+900000000197,Rahul Deshmukh,INST-003,B.Tech Information Technology,Round 1,ST,19212
+900000000198,Prisha Bhatia,INST-002,B.Tech Information Technology,Round 1,ST,39306
+900000000199,Isha Sen,INST-003,B.Tech Civil Engineering,Round 3,General,7287
+900000000200,Shaurya Singh,INST-001,B.Tech Information Technology,Round 1,General,17076
+900000000201,Pooja Kulkarni,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,EWS,9999
+900000000202,Reyansh Kapoor,INST-002,B.Tech Mechanical Engineering,Round 2,OBC,34271
+900000000203,Sneha Banerjee,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,SC,42585
+900000000204,Ananya Shah,INST-002,B.Tech Information Technology,Round 1,ST,41391
+900000000205,Ira Sharma,INST-003,B.Tech Computer Science & Engineering,Round 1,OBC,18361
+900000000206,Atharv Pillai,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,SC,39243
+900000000207,Angel Pillai,INST-001,B.Tech Civil Engineering,Round 3,OBC,20644
+900000000208,Atharv Pillai,INST-003,B.Tech Electronics & Communication Engineering,Round 2,ST,12293
+900000000209,Pooja Saxena,INST-003,B.Tech Information Technology,Round 1,SC,748
+900000000210,Pooja Shah,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,OBC,5537
+900000000211,Aadhya Verma,INST-003,B.Tech Information Technology,Round 3,ST,36146
+900000000212,Saanvi Chatterjee,INST-003,B.Tech Information Technology,Round 1,ST,6831
+900000000213,Sneha Joshi,INST-003,B.Tech Electronics & Communication Engineering,Round 3,SC,40114
+900000000214,Kabir Ghosh,INST-003,B.Tech Mechanical Engineering,Round 3,OBC,21330
+900000000215,Isha Dutta,INST-003,B.Tech Mechanical Engineering,Round 1,OBC,16482
+900000000216,Ira Patel,INST-002,B.Tech Information Technology,Round 2,General,41645
+900000000217,Myra Rao,INST-003,B.Tech Computer Science & Engineering,Round 2,SC,4270
+900000000218,Kabir Patel,INST-003,B.Tech Civil Engineering,Round 1,EWS,31927
+900000000219,Aditya Malhotra,INST-001,B.Tech Information Technology,Round 2,OBC,8765
+900000000220,Sai Singh,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,ST,41119
+900000000221,Avni Singh,INST-001,B.Tech Information Technology,Round 1,EWS,14943
+900000000222,Aarav Mukherjee,INST-002,B.Tech Electronics & Communication Engineering,Round 1,OBC,25224
+900000000223,Reyansh Nair,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,General,34887
+900000000224,Sneha Pillai,INST-003,B.Tech Civil Engineering,Round 2,OBC,5801
+900000000225,Rahul Banerjee,INST-002,B.Tech Electronics & Communication Engineering,Round 3,General,16383
+900000000226,Pari Mehta,INST-001,B.Tech Computer Science & Engineering,Round 2,ST,7508
+900000000227,Meera Dutta,INST-002,B.Tech Civil Engineering,Round 2,EWS,44877
+900000000228,Vivaan Kulkarni,INST-002,B.Tech Computer Science & Engineering,Round 3,SC,41314
+900000000229,Ira Gupta,INST-001,B.Tech Civil Engineering,Round 1,EWS,21533
+900000000230,Pari Mukherjee,INST-001,B.Tech Electronics & Communication Engineering,Round 2,General,29832
+900000000231,Ayaan Sharma,INST-003,B.Tech Mechanical Engineering,Round 3,SC,11062
+900000000232,Ayaan Chatterjee,INST-001,B.Tech Civil Engineering,Round 2,EWS,41245
+900000000233,Myra Verma,INST-001,B.Tech Mechanical Engineering,Round 3,General,15088
+900000000234,Ananya Verma,INST-003,B.Tech Computer Science & Engineering,Round 3,ST,14833
+900000000235,Saanvi Ghosh,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,OBC,33921
+900000000236,Kavya Das,INST-001,B.Tech Information Technology,Round 2,OBC,19229
+900000000237,Kavya Pillai,INST-002,B.Tech Computer Science & Engineering,Round 1,OBC,35610
+900000000238,Navya Sharma,INST-003,B.Tech Electronics & Communication Engineering,Round 1,ST,32365
+900000000239,Saanvi Gupta,INST-002,B.Tech Mechanical Engineering,Round 3,General,38181
+900000000240,Arjun Kulkarni,INST-002,B.Tech Mechanical Engineering,Round 2,ST,21501
+900000000241,Arjun Mehta,INST-002,B.Tech Electronics & Communication Engineering,Round 2,SC,26761
+900000000242,Sneha Kapoor,INST-003,B.Tech Electronics & Communication Engineering,Round 2,EWS,2763
+900000000243,Ishaan Gupta,INST-002,B.Tech Mechanical Engineering,Round 1,General,26622
+900000000244,Reyansh Rao,INST-001,B.Tech Electronics & Communication Engineering,Round 1,ST,24515
+900000000245,Arjun Sharma,INST-002,B.Tech Computer Science & Engineering,Round 1,General,30331
+900000000246,Ira Patel,INST-001,B.Tech Mechanical Engineering,Round 1,SC,18460
+900000000247,Manish Patil,INST-002,B.Tech Civil Engineering,Round 1,General,18455
+900000000248,Meera Chopra,INST-002,B.Tech Civil Engineering,Round 2,EWS,33044
+900000000249,Vivaan Nair,INST-003,B.Tech Information Technology,Round 2,EWS,15374
+900000000250,Saanvi Deshmukh,INST-001,B.Tech Electronics & Communication Engineering,Round 1,EWS,20960
+900000000251,Angel Kulkarni,INST-001,B.Tech Mechanical Engineering,Round 2,General,6035
+900000000252,Vivaan Shah,INST-003,B.Tech Mechanical Engineering,Round 1,SC,4023
+900000000253,Ayaan Das,INST-002,B.Tech Computer Science & Engineering,Round 2,SC,9062
+900000000254,Prisha Singh,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,20227
+900000000255,Simran Menon,INST-003,B.Tech Electronics & Communication Engineering,Round 3,General,32637
+900000000256,Ananya Pillai,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,SC,29390
+900000000257,Arjun Pillai,INST-002,B.Tech Information Technology,Round 3,ST,11021
+900000000258,Angel Deshmukh,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,OBC,29695
+900000000259,Aadhya Sharma,INST-002,B.Tech Electronics & Communication Engineering,Round 1,General,35971
+900000000260,Vivaan Reddy,INST-002,B.Tech Computer Science & Engineering,Round 1,OBC,26942
+900000000261,Ananya Malhotra,INST-002,B.Tech Computer Science & Engineering,Round 1,ST,5862
+900000000262,Dhruv Malhotra,INST-001,B.Tech Information Technology,Round 2,ST,30983
+900000000263,Sai Singh,INST-002,B.Tech Electronics & Communication Engineering,Round 1,SC,28938
+900000000264,Simran Verma,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,ST,38768
+900000000265,Meera Reddy,INST-002,B.Tech Computer Science & Engineering,Round 3,General,33025
+900000000266,Ayaan Chatterjee,INST-001,B.Tech Electronics & Communication Engineering,Round 2,General,44889
+900000000267,Nikhil Joshi,INST-003,B.Tech Information Technology,Round 2,EWS,21493
+900000000268,Manish Kulkarni,INST-003,B.Tech Civil Engineering,Round 3,General,7042
+900000000269,Angel Dutta,INST-002,B.Tech Civil Engineering,Round 1,OBC,18169
+900000000270,Aditya Menon,INST-002,B.Tech Information Technology,Round 2,General,22262
+900000000271,Reyansh Das,INST-003,B.Tech Mechanical Engineering,Round 2,EWS,42427
+900000000272,Riya Banerjee,INST-001,B.Tech Civil Engineering,Round 1,SC,33333
+900000000273,Simran Sharma,INST-001,B.Tech Electronics & Communication Engineering,Round 2,General,23737
+900000000274,Isha Menon,INST-003,B.Tech Information Technology,Round 2,OBC,31222
+900000000275,Sai Kapoor,INST-001,B.Tech Electronics & Communication Engineering,Round 3,OBC,44533
+900000000276,Isha Sharma,INST-001,B.Tech Computer Science & Engineering,Round 2,EWS,20138
+900000000277,Angel Rao,INST-003,B.Tech Civil Engineering,Round 2,EWS,6825
+900000000278,Pooja Singh,INST-002,B.Tech Computer Science & Engineering,Round 2,SC,18265
+900000000279,Dhruv Bhatia,INST-003,B.Tech Mechanical Engineering,Round 1,General,43072
+900000000280,Riya Menon,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,EWS,41952
+900000000281,Isha Kapoor,INST-002,B.Tech Computer Science & Engineering,Round 1,SC,36756
+900000000282,Sai Chopra,INST-002,B.Tech Mechanical Engineering,Round 2,EWS,19390
+900000000283,Vihaan Das,INST-003,B.Tech Information Technology,Round 2,ST,3663
+900000000284,Navya Reddy,INST-002,B.Tech Information Technology,Round 3,OBC,20659
+900000000285,Kabir Chatterjee,INST-001,B.Tech Computer Science & Engineering,Round 3,ST,41636
+900000000286,Sara Sharma,INST-003,B.Tech Mechanical Engineering,Round 1,General,44471
+900000000287,Rohan Mukherjee,INST-003,B.Tech Civil Engineering,Round 2,OBC,4398
+900000000288,Kavya Banerjee,INST-002,B.Tech Information Technology,Round 1,OBC,26556
+900000000289,Kabir Banerjee,INST-003,B.Tech Mechanical Engineering,Round 3,General,24708
+900000000290,Nikhil Verma,INST-001,B.Tech Electrical & Electronics Engineering,Round 2,ST,25040
+900000000291,Ishaan Mehta,INST-002,B.Tech Civil Engineering,Round 3,EWS,9109
+900000000292,Isha Banerjee,INST-003,B.Tech Electronics & Communication Engineering,Round 1,SC,34404
+900000000293,Aadhya Saxena,INST-002,B.Tech Information Technology,Round 1,General,955
+900000000294,Ishaan Gupta,INST-001,B.Tech Electrical & Electronics Engineering,Round 2,SC,17429
+900000000295,Aditya Das,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,General,753
+900000000296,Navya Pillai,INST-001,B.Tech Mechanical Engineering,Round 1,ST,26350
+900000000297,Tanvi Bose,INST-003,B.Tech Electronics & Communication Engineering,Round 3,General,10566
+900000000298,Simran Kaur,INST-001,B.Tech Civil Engineering,Round 3,OBC,31779
+900000000299,Sneha Verma,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,EWS,37148
+900000000300,Meera Shah,INST-003,B.Tech Mechanical Engineering,Round 3,ST,9862
+900000000301,Isha Das,INST-002,B.Tech Information Technology,Round 1,SC,18349
+900000000302,Ira Ghosh,INST-001,B.Tech Information Technology,Round 2,ST,20833
+900000000303,Reyansh Menon,INST-003,B.Tech Civil Engineering,Round 3,SC,33434
+900000000304,Navya Pillai,INST-003,B.Tech Civil Engineering,Round 3,ST,43188
+900000000305,Reyansh Chatterjee,INST-003,B.Tech Mechanical Engineering,Round 3,SC,7087
+900000000306,Krishna Ghosh,INST-002,B.Tech Computer Science & Engineering,Round 1,ST,12609
+900000000307,Aditya Sen,INST-003,B.Tech Computer Science & Engineering,Round 3,General,36376
+900000000308,Isha Chatterjee,INST-001,B.Tech Electronics & Communication Engineering,Round 2,EWS,39845
+900000000309,Riya Patil,INST-001,B.Tech Information Technology,Round 1,ST,39607
+900000000310,Anushka Mukherjee,INST-003,B.Tech Mechanical Engineering,Round 1,OBC,33143
+900000000311,Pooja Patel,INST-003,B.Tech Computer Science & Engineering,Round 1,General,25080
+900000000312,Dhruv Joshi,INST-003,B.Tech Computer Science & Engineering,Round 2,OBC,35586
+900000000313,Reyansh Patil,INST-003,B.Tech Civil Engineering,Round 2,General,25127
+900000000314,Pooja Verma,INST-001,B.Tech Information Technology,Round 3,SC,38680
+900000000315,Aadhya Rao,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,2783
+900000000316,Krishna Saxena,INST-001,B.Tech Electronics & Communication Engineering,Round 1,SC,39237
+900000000317,Prisha Bose,INST-001,B.Tech Electronics & Communication Engineering,Round 3,General,33224
+900000000318,Ira Gupta,INST-002,B.Tech Mechanical Engineering,Round 1,EWS,34886
+900000000319,Ayaan Kaur,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,General,25408
+900000000320,Vivaan Sen,INST-002,B.Tech Computer Science & Engineering,Round 3,OBC,21112
+900000000321,Shaurya Chatterjee,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,ST,6930
+900000000322,Arjun Banerjee,INST-001,B.Tech Computer Science & Engineering,Round 1,OBC,16629
+900000000323,Diya Reddy,INST-001,B.Tech Mechanical Engineering,Round 2,General,35170
+900000000324,Rahul Verma,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,General,18569
+900000000325,Tanvi Saxena,INST-003,B.Tech Mechanical Engineering,Round 1,SC,44506
+900000000326,Pooja Das,INST-002,B.Tech Civil Engineering,Round 3,EWS,5698
+900000000327,Kabir Reddy,INST-001,B.Tech Mechanical Engineering,Round 1,OBC,44093
+900000000328,Kavya Singh,INST-001,B.Tech Computer Science & Engineering,Round 3,EWS,32048
+900000000329,Reyansh Kapoor,INST-003,B.Tech Mechanical Engineering,Round 3,SC,38404
+900000000330,Anushka Reddy,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,ST,18252
+900000000331,Tanvi Rao,INST-001,B.Tech Civil Engineering,Round 1,EWS,5492
+900000000332,Aanya Mehta,INST-001,B.Tech Computer Science & Engineering,Round 3,General,38254
+900000000333,Aditya Deshmukh,INST-002,B.Tech Electronics & Communication Engineering,Round 2,OBC,38760
+900000000334,Isha Gupta,INST-003,B.Tech Electronics & Communication Engineering,Round 3,OBC,33814
+900000000335,Simran Kulkarni,INST-001,B.Tech Computer Science & Engineering,Round 2,OBC,4239
+900000000336,Kabir Shah,INST-003,B.Tech Computer Science & Engineering,Round 2,General,34288
+900000000337,Rahul Deshmukh,INST-003,B.Tech Civil Engineering,Round 1,EWS,16607
+900000000338,Meera Menon,INST-003,B.Tech Computer Science & Engineering,Round 1,ST,10973
+900000000339,Kabir Bhatia,INST-002,B.Tech Electronics & Communication Engineering,Round 2,General,31676
+900000000340,Riya Sharma,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,EWS,9744
+900000000341,Meera Menon,INST-002,B.Tech Electronics & Communication Engineering,Round 3,ST,31686
+900000000342,Nikhil Bhatia,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,ST,39214
+900000000343,Krishna Malhotra,INST-001,B.Tech Civil Engineering,Round 1,ST,40408
+900000000344,Isha Chatterjee,INST-001,B.Tech Civil Engineering,Round 3,ST,34332
+900000000345,Meera Reddy,INST-003,B.Tech Civil Engineering,Round 3,EWS,6523
+900000000346,Rohan Sen,INST-001,B.Tech Electronics & Communication Engineering,Round 3,General,37998
+900000000347,Sara Singh,INST-001,B.Tech Mechanical Engineering,Round 1,ST,42821
+900000000348,Avni Kulkarni,INST-003,B.Tech Information Technology,Round 3,ST,11832
+900000000349,Diya Kapoor,INST-003,B.Tech Computer Science & Engineering,Round 1,ST,10723
+900000000350,Navya Bose,INST-002,B.Tech Electronics & Communication Engineering,Round 3,ST,5896
+900000000351,Sai Patil,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,EWS,3885
+900000000352,Aarav Mehta,INST-003,B.Tech Electronics & Communication Engineering,Round 1,SC,15799
+900000000353,Saanvi Chatterjee,INST-001,B.Tech Civil Engineering,Round 3,General,4616
+900000000354,Angel Ghosh,INST-003,B.Tech Information Technology,Round 1,SC,11591
+900000000355,Isha Kapoor,INST-002,B.Tech Civil Engineering,Round 3,ST,24832
+900000000356,Kavya Kaur,INST-002,B.Tech Computer Science & Engineering,Round 1,ST,41647
+900000000357,Anushka Reddy,INST-001,B.Tech Mechanical Engineering,Round 2,General,26264
+900000000358,Tanvi Nair,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,13205
+900000000359,Kabir Chopra,INST-001,B.Tech Computer Science & Engineering,Round 1,ST,40347
+900000000360,Aditya Das,INST-002,B.Tech Civil Engineering,Round 2,OBC,33617
+900000000361,Vihaan Shah,INST-002,B.Tech Mechanical Engineering,Round 3,OBC,30082
+900000000362,Anushka Mukherjee,INST-001,B.Tech Civil Engineering,Round 2,SC,40279
+900000000363,Ananya Joshi,INST-002,B.Tech Information Technology,Round 1,ST,24519
+900000000364,Sneha Saxena,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,EWS,28445
+900000000365,Tanvi Bose,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,SC,32011
+900000000366,Ira Malhotra,INST-001,B.Tech Electrical & Electronics Engineering,Round 2,SC,17144
+900000000367,Angel Sharma,INST-003,B.Tech Civil Engineering,Round 3,EWS,11558
+900000000368,Prisha Chatterjee,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,SC,27764
+900000000369,Sai Saxena,INST-003,B.Tech Mechanical Engineering,Round 2,EWS,42367
+900000000370,Myra Banerjee,INST-003,B.Tech Electronics & Communication Engineering,Round 1,SC,5367
+900000000371,Reyansh Gupta,INST-001,B.Tech Civil Engineering,Round 1,SC,40627
+900000000372,Pari Chopra,INST-001,B.Tech Electronics & Communication Engineering,Round 3,OBC,1992
+900000000373,Tanvi Rao,INST-001,B.Tech Civil Engineering,Round 3,EWS,30040
+900000000374,Pari Sen,INST-002,B.Tech Information Technology,Round 2,ST,17146
+900000000375,Meera Ghosh,INST-003,B.Tech Computer Science & Engineering,Round 2,ST,19755
+900000000376,Nikhil Chopra,INST-002,B.Tech Civil Engineering,Round 2,OBC,10820
+900000000377,Diya Gupta,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,SC,27180
+900000000378,Krishna Kapoor,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,OBC,21133
+900000000379,Vivaan Saxena,INST-003,B.Tech Information Technology,Round 1,OBC,6031
+900000000380,Navya Reddy,INST-002,B.Tech Computer Science & Engineering,Round 1,OBC,3792
+900000000381,Aanya Patel,INST-001,B.Tech Computer Science & Engineering,Round 3,OBC,25338
+900000000382,Dhruv Rao,INST-003,B.Tech Information Technology,Round 2,SC,10514
+900000000383,Ayaan Joshi,INST-003,B.Tech Computer Science & Engineering,Round 1,General,15584
+900000000384,Saanvi Kulkarni,INST-003,B.Tech Computer Science & Engineering,Round 3,ST,39193
+900000000385,Ananya Saxena,INST-001,B.Tech Computer Science & Engineering,Round 2,OBC,35270
+900000000386,Anushka Deshmukh,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,OBC,16549
+900000000387,Pooja Kapoor,INST-002,B.Tech Mechanical Engineering,Round 3,ST,18163
+900000000388,Sneha Kapoor,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,OBC,1346
+900000000389,Anushka Banerjee,INST-003,B.Tech Civil Engineering,Round 2,EWS,10221
+900000000390,Ayaan Malhotra,INST-001,B.Tech Computer Science & Engineering,Round 1,ST,12677
+900000000391,Prisha Shah,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,OBC,43095
+900000000392,Kavya Bose,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,SC,34789
+900000000393,Arjun Mehta,INST-001,B.Tech Information Technology,Round 1,EWS,43169
+900000000394,Pooja Banerjee,INST-003,B.Tech Information Technology,Round 3,ST,6942
+900000000395,Isha Nair,INST-003,B.Tech Mechanical Engineering,Round 2,SC,27143
+900000000396,Nikhil Chopra,INST-002,B.Tech Information Technology,Round 2,General,2391
+900000000397,Krishna Dutta,INST-001,B.Tech Mechanical Engineering,Round 3,SC,36404
+900000000398,Reyansh Verma,INST-003,B.Tech Mechanical Engineering,Round 1,OBC,16913
+900000000399,Simran Sen,INST-002,B.Tech Electronics & Communication Engineering,Round 3,EWS,6369
+900000000400,Sai Chatterjee,INST-001,B.Tech Computer Science & Engineering,Round 3,EWS,869
+900000000401,Aditya Nair,INST-003,B.Tech Computer Science & Engineering,Round 3,ST,29323
+900000000402,Aadhya Bose,INST-003,B.Tech Information Technology,Round 3,General,36043
+900000000403,Isha Reddy,INST-003,B.Tech Information Technology,Round 3,OBC,36896
+900000000404,Saanvi Chatterjee,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,SC,22946
+900000000405,Pari Saxena,INST-002,B.Tech Electronics & Communication Engineering,Round 1,OBC,13206
+900000000406,Ayaan Banerjee,INST-002,B.Tech Computer Science & Engineering,Round 3,General,20116
+900000000407,Kabir Banerjee,INST-003,B.Tech Information Technology,Round 3,OBC,43915
+900000000408,Aditya Joshi,INST-002,B.Tech Civil Engineering,Round 1,ST,43030
+900000000409,Myra Das,INST-003,B.Tech Information Technology,Round 3,General,20793
+900000000410,Sai Saxena,INST-003,B.Tech Electronics & Communication Engineering,Round 2,SC,32228
+900000000411,Angel Kaur,INST-002,B.Tech Civil Engineering,Round 1,SC,25493
+900000000412,Rohan Bhatia,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,EWS,41114
+900000000413,Avni Kapoor,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,EWS,44949
+900000000414,Meera Sen,INST-001,B.Tech Civil Engineering,Round 2,General,36645
+900000000415,Atharv Nair,INST-002,B.Tech Information Technology,Round 2,SC,10078
+900000000416,Vivaan Chatterjee,INST-001,B.Tech Electronics & Communication Engineering,Round 3,General,23664
+900000000417,Krishna Shah,INST-002,B.Tech Information Technology,Round 2,OBC,10853
+900000000418,Aarav Sen,INST-001,B.Tech Computer Science & Engineering,Round 2,EWS,32228
+900000000419,Avni Menon,INST-002,B.Tech Mechanical Engineering,Round 3,EWS,39035
+900000000420,Meera Malhotra,INST-003,B.Tech Civil Engineering,Round 2,General,36669
+900000000421,Dhruv Kapoor,INST-002,B.Tech Electronics & Communication Engineering,Round 2,EWS,3694
+900000000422,Sneha Gupta,INST-002,B.Tech Information Technology,Round 2,General,11842
+900000000423,Kavya Gupta,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,General,29571
+900000000424,Isha Patil,INST-002,B.Tech Electronics & Communication Engineering,Round 3,OBC,10744
+900000000425,Riya Kapoor,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,OBC,13414
+900000000426,Aarav Rao,INST-001,B.Tech Information Technology,Round 1,EWS,43339
+900000000427,Sai Patil,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,General,12233
+900000000428,Aditya Bhatia,INST-001,B.Tech Computer Science & Engineering,Round 1,ST,11801
+900000000429,Kavya Banerjee,INST-002,B.Tech Mechanical Engineering,Round 1,ST,36195
+900000000430,Ayaan Mukherjee,INST-003,B.Tech Electronics & Communication Engineering,Round 1,EWS,3933
+900000000431,Sai Patel,INST-003,B.Tech Civil Engineering,Round 3,SC,8620
+900000000432,Prisha Bose,INST-001,B.Tech Computer Science & Engineering,Round 1,ST,41110
+900000000433,Manish Reddy,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,OBC,18576
+900000000434,Pari Shah,INST-003,B.Tech Information Technology,Round 3,EWS,2028
+900000000435,Tanvi Sen,INST-003,B.Tech Electronics & Communication Engineering,Round 2,EWS,22081
+900000000436,Vihaan Ghosh,INST-001,B.Tech Civil Engineering,Round 1,EWS,21859
+900000000437,Saanvi Ghosh,INST-002,B.Tech Civil Engineering,Round 1,EWS,7777
+900000000438,Aditya Joshi,INST-002,B.Tech Information Technology,Round 1,EWS,19932
+900000000439,Dhruv Sen,INST-001,B.Tech Civil Engineering,Round 1,SC,31804
+900000000440,Ishaan Chatterjee,INST-001,B.Tech Electrical & Electronics Engineering,Round 2,ST,34352
+900000000441,Nikhil Das,INST-003,B.Tech Civil Engineering,Round 3,SC,1593
+900000000442,Anushka Mehta,INST-001,B.Tech Electrical & Electronics Engineering,Round 2,OBC,10441
+900000000443,Reyansh Mehta,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,OBC,11344
+900000000444,Aanya Rao,INST-001,B.Tech Computer Science & Engineering,Round 2,General,5763
+900000000445,Manish Pillai,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,37330
+900000000446,Reyansh Rao,INST-001,B.Tech Electronics & Communication Engineering,Round 1,EWS,17031
+900000000447,Anushka Rao,INST-002,B.Tech Mechanical Engineering,Round 2,OBC,18618
+900000000448,Isha Malhotra,INST-003,B.Tech Civil Engineering,Round 1,SC,35034
+900000000449,Ananya Patil,INST-002,B.Tech Computer Science & Engineering,Round 1,EWS,28375
+900000000450,Aanya Mukherjee,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,General,38928
+900000000451,Sneha Saxena,INST-002,B.Tech Civil Engineering,Round 2,ST,42390
+900000000452,Rahul Dutta,INST-002,B.Tech Civil Engineering,Round 2,EWS,37995
+900000000453,Pari Kulkarni,INST-001,B.Tech Civil Engineering,Round 3,EWS,26609
+900000000454,Myra Dutta,INST-001,B.Tech Mechanical Engineering,Round 1,ST,38796
+900000000455,Ira Menon,INST-001,B.Tech Electronics & Communication Engineering,Round 3,ST,23731
+900000000456,Krishna Sharma,INST-003,B.Tech Information Technology,Round 2,OBC,5668
+900000000457,Kavya Dutta,INST-003,B.Tech Information Technology,Round 2,ST,23405
+900000000458,Simran Patel,INST-003,B.Tech Civil Engineering,Round 2,General,2601
+900000000459,Rahul Patel,INST-001,B.Tech Civil Engineering,Round 3,EWS,5916
+900000000460,Aanya Bose,INST-002,B.Tech Computer Science & Engineering,Round 2,EWS,30871
+900000000461,Aadhya Saxena,INST-002,B.Tech Civil Engineering,Round 1,ST,38009
+900000000462,Manish Sharma,INST-002,B.Tech Computer Science & Engineering,Round 2,OBC,40476
+900000000463,Aarav Banerjee,INST-002,B.Tech Information Technology,Round 1,SC,15599
+900000000464,Aditya Nair,INST-002,B.Tech Information Technology,Round 1,ST,41904
+900000000465,Vihaan Singh,INST-002,B.Tech Information Technology,Round 2,ST,35019
+900000000466,Tanvi Joshi,INST-002,B.Tech Mechanical Engineering,Round 2,SC,34870
+900000000467,Angel Das,INST-002,B.Tech Mechanical Engineering,Round 1,SC,43003
+900000000468,Rahul Chatterjee,INST-001,B.Tech Civil Engineering,Round 3,General,4573
+900000000469,Reyansh Kaur,INST-001,B.Tech Electronics & Communication Engineering,Round 1,EWS,6145
+900000000470,Nikhil Singh,INST-002,B.Tech Electronics & Communication Engineering,Round 3,EWS,12228
+900000000471,Aadhya Rao,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,SC,10734
+900000000472,Sara Menon,INST-001,B.Tech Information Technology,Round 2,OBC,40116
+900000000473,Reyansh Bhatia,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,General,4898
+900000000474,Sneha Sharma,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,OBC,21735
+900000000475,Prisha Patel,INST-001,B.Tech Electronics & Communication Engineering,Round 2,ST,8063
+900000000476,Navya Kaur,INST-002,B.Tech Civil Engineering,Round 1,ST,19122
+900000000477,Sara Kaur,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,ST,5681
+900000000478,Aditya Mehta,INST-001,B.Tech Information Technology,Round 3,SC,32867
+900000000479,Vivaan Verma,INST-001,B.Tech Computer Science & Engineering,Round 3,EWS,30159
+900000000480,Arjun Verma,INST-001,B.Tech Civil Engineering,Round 1,OBC,1061
+900000000481,Reyansh Rao,INST-003,B.Tech Information Technology,Round 3,OBC,4255
+900000000482,Anushka Malhotra,INST-001,B.Tech Civil Engineering,Round 2,General,8033
+900000000483,Shaurya Mukherjee,INST-001,B.Tech Civil Engineering,Round 1,General,41551
+900000000484,Prisha Gupta,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,ST,31315
+900000000485,Meera Rao,INST-003,B.Tech Electronics & Communication Engineering,Round 2,EWS,5888
+900000000486,Pooja Chopra,INST-003,B.Tech Mechanical Engineering,Round 3,OBC,30542
+900000000487,Ayaan Bose,INST-001,B.Tech Electronics & Communication Engineering,Round 3,General,3660
+900000000488,Diya Nair,INST-001,B.Tech Electronics & Communication Engineering,Round 1,ST,33864
+900000000489,Sneha Kulkarni,INST-002,B.Tech Computer Science & Engineering,Round 1,General,15659
+900000000490,Rohan Gupta,INST-001,B.Tech Electronics & Communication Engineering,Round 3,ST,11789
+900000000491,Dhruv Singh,INST-003,B.Tech Computer Science & Engineering,Round 3,General,18509
+900000000492,Kavya Reddy,INST-003,B.Tech Electronics & Communication Engineering,Round 3,OBC,38007
+900000000493,Prisha Das,INST-003,B.Tech Computer Science & Engineering,Round 2,OBC,16361
+900000000494,Rahul Bhatia,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,34927
+900000000495,Sneha Patel,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,OBC,23608
+900000000496,Vivaan Patel,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,30513
+900000000497,Atharv Bose,INST-002,B.Tech Computer Science & Engineering,Round 3,SC,34914
+900000000498,Manish Deshmukh,INST-003,B.Tech Computer Science & Engineering,Round 3,SC,3499
+900000000499,Manish Verma,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,SC,15759
+900000000500,Rohan Nair,INST-001,B.Tech Computer Science & Engineering,Round 2,SC,29769
+900000000501,Tanvi Mukherjee,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,ST,5841
+900000000502,Aadhya Gupta,INST-002,B.Tech Electronics & Communication Engineering,Round 1,OBC,34243
+900000000503,Krishna Patel,INST-001,B.Tech Electronics & Communication Engineering,Round 1,OBC,34173
+900000000504,Anushka Patel,INST-002,B.Tech Electronics & Communication Engineering,Round 1,ST,24492
+900000000505,Ishaan Pillai,INST-002,B.Tech Civil Engineering,Round 1,OBC,43790
+900000000506,Aditya Nair,INST-003,B.Tech Electronics & Communication Engineering,Round 3,General,43737
+900000000507,Myra Rao,INST-002,B.Tech Information Technology,Round 1,ST,21105
+900000000508,Isha Nair,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,General,31510
+900000000509,Pari Sharma,INST-001,B.Tech Mechanical Engineering,Round 2,General,39975
+900000000510,Saanvi Mehta,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,ST,12863
+900000000511,Vihaan Sen,INST-002,B.Tech Information Technology,Round 1,SC,22724
+900000000512,Pooja Gupta,INST-001,B.Tech Mechanical Engineering,Round 3,ST,27264
+900000000513,Ishaan Mehta,INST-002,B.Tech Civil Engineering,Round 1,General,26954
+900000000514,Simran Chatterjee,INST-002,B.Tech Civil Engineering,Round 1,SC,38472
+900000000515,Rohan Sharma,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,SC,27458
+900000000516,Vivaan Malhotra,INST-003,B.Tech Information Technology,Round 2,SC,41276
+900000000517,Myra Shah,INST-002,B.Tech Mechanical Engineering,Round 3,OBC,23541
+900000000518,Riya Singh,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,OBC,41278
+900000000519,Aanya Nair,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,SC,6400
+900000000520,Aarav Bhatia,INST-001,B.Tech Mechanical Engineering,Round 1,OBC,10248
+900000000521,Pooja Patil,INST-001,B.Tech Electronics & Communication Engineering,Round 2,SC,20539
+900000000522,Nikhil Shah,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,OBC,9449
+900000000523,Krishna Gupta,INST-002,B.Tech Computer Science & Engineering,Round 2,General,12988
+900000000524,Rahul Verma,INST-003,B.Tech Mechanical Engineering,Round 1,General,8232
+900000000525,Atharv Kaur,INST-003,B.Tech Mechanical Engineering,Round 2,SC,10642
+900000000526,Isha Kulkarni,INST-003,B.Tech Electronics & Communication Engineering,Round 1,SC,11377
+900000000527,Kabir Sen,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,SC,24998
+900000000528,Riya Malhotra,INST-002,B.Tech Electronics & Communication Engineering,Round 2,SC,36632
+900000000529,Ayaan Menon,INST-001,B.Tech Information Technology,Round 3,ST,19164
+900000000530,Tanvi Kaur,INST-002,B.Tech Computer Science & Engineering,Round 2,EWS,43278
+900000000531,Ira Mukherjee,INST-002,B.Tech Electronics & Communication Engineering,Round 1,EWS,26615
+900000000532,Prisha Joshi,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,ST,33636
+900000000533,Reyansh Malhotra,INST-001,B.Tech Electronics & Communication Engineering,Round 1,General,4591
+900000000534,Sara Patil,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,ST,13353
+900000000535,Isha Joshi,INST-001,B.Tech Information Technology,Round 2,ST,20734
+900000000536,Aditya Saxena,INST-002,B.Tech Electronics & Communication Engineering,Round 3,ST,32065
+900000000537,Pooja Kaur,INST-002,B.Tech Computer Science & Engineering,Round 2,ST,38854
+900000000538,Aadhya Nair,INST-002,B.Tech Mechanical Engineering,Round 3,EWS,1882
+900000000539,Angel Pillai,INST-003,B.Tech Electronics & Communication Engineering,Round 2,EWS,5686
+900000000540,Navya Saxena,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,EWS,27721
+900000000541,Rahul Sharma,INST-001,B.Tech Civil Engineering,Round 2,General,44364
+900000000542,Navya Saxena,INST-001,B.Tech Electrical & Electronics Engineering,Round 3,OBC,18952
+900000000543,Rohan Patil,INST-002,B.Tech Mechanical Engineering,Round 1,EWS,34923
+900000000544,Arjun Singh,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,OBC,27272
+900000000545,Kavya Kaur,INST-001,B.Tech Information Technology,Round 3,ST,17679
+900000000546,Simran Banerjee,INST-001,B.Tech Electronics & Communication Engineering,Round 1,SC,28653
+900000000547,Kabir Das,INST-002,B.Tech Electronics & Communication Engineering,Round 3,EWS,15595
+900000000548,Dhruv Sharma,INST-002,B.Tech Information Technology,Round 3,General,13357
+900000000549,Diya Bose,INST-003,B.Tech Computer Science & Engineering,Round 2,General,3745
+900000000550,Arjun Dutta,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,General,37539
+900000000551,Rahul Chatterjee,INST-002,B.Tech Computer Science & Engineering,Round 2,EWS,25675
+900000000552,Ishaan Malhotra,INST-003,B.Tech Mechanical Engineering,Round 1,ST,35081
+900000000553,Anushka Deshmukh,INST-002,B.Tech Electronics & Communication Engineering,Round 2,SC,20316
+900000000554,Vihaan Mukherjee,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,General,35175
+900000000555,Aarav Sen,INST-001,B.Tech Mechanical Engineering,Round 1,ST,41496
+900000000556,Aditya Joshi,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,OBC,17222
+900000000557,Nikhil Banerjee,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,ST,42135
+900000000558,Pari Nair,INST-003,B.Tech Electrical & Electronics Engineering,Round 1,EWS,27010
+900000000559,Diya Saxena,INST-001,B.Tech Mechanical Engineering,Round 2,ST,37501
+900000000560,Pooja Singh,INST-001,B.Tech Electrical & Electronics Engineering,Round 1,ST,40621
+900000000561,Sai Pillai,INST-002,B.Tech Civil Engineering,Round 2,ST,7886
+900000000562,Saanvi Kapoor,INST-001,B.Tech Civil Engineering,Round 2,OBC,27535
+900000000563,Vivaan Kapoor,INST-003,B.Tech Mechanical Engineering,Round 3,ST,5738
+900000000564,Ira Kaur,INST-002,B.Tech Civil Engineering,Round 1,General,36623
+900000000565,Tanvi Sen,INST-003,B.Tech Mechanical Engineering,Round 3,ST,19945
+900000000566,Pooja Verma,INST-001,B.Tech Information Technology,Round 1,SC,34881
+900000000567,Anushka Verma,INST-002,B.Tech Mechanical Engineering,Round 2,SC,40289
+900000000568,Shaurya Nair,INST-001,B.Tech Electronics & Communication Engineering,Round 1,OBC,12122
+900000000569,Kavya Reddy,INST-003,B.Tech Electrical & Electronics Engineering,Round 2,ST,32428
+900000000570,Ayaan Pillai,INST-003,B.Tech Electronics & Communication Engineering,Round 3,SC,37032
+900000000571,Meera Chatterjee,INST-001,B.Tech Electrical & Electronics Engineering,Round 2,General,18750
+900000000572,Anushka Bhatia,INST-002,B.Tech Electrical & Electronics Engineering,Round 3,General,21709
+900000000573,Anushka Banerjee,INST-002,B.Tech Mechanical Engineering,Round 1,General,35978
+900000000574,Atharv Chopra,INST-002,B.Tech Information Technology,Round 2,OBC,8023
+900000000575,Pari Dutta,INST-001,B.Tech Civil Engineering,Round 2,ST,25553
+900000000576,Sai Chatterjee,INST-002,B.Tech Electrical & Electronics Engineering,Round 1,General,33762
+900000000577,Ishaan Sen,INST-002,B.Tech Information Technology,Round 1,ST,19806
+900000000578,Ananya Shah,INST-001,B.Tech Computer Science & Engineering,Round 3,General,33586
+900000000579,Simran Ghosh,INST-001,B.Tech Computer Science & Engineering,Round 3,ST,11887
+900000000580,Sai Reddy,INST-003,B.Tech Information Technology,Round 2,SC,12387
+900000000581,Reyansh Reddy,INST-003,B.Tech Electronics & Communication Engineering,Round 2,ST,26668
+900000000582,Ira Bose,INST-001,B.Tech Electronics & Communication Engineering,Round 1,OBC,1877
+900000000583,Ananya Reddy,INST-002,B.Tech Information Technology,Round 1,General,11005
+900000000584,Prisha Patel,INST-003,B.Tech Mechanical Engineering,Round 2,General,21999
+900000000585,Riya Das,INST-002,B.Tech Information Technology,Round 2,EWS,38854
+900000000586,Meera Sharma,INST-002,B.Tech Electrical & Electronics Engineering,Round 2,General,32546
+900000000587,Vivaan Saxena,INST-001,B.Tech Information Technology,Round 3,OBC,38632
+900000000588,Krishna Dutta,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,SC,31074
+900000000589,Sai Kaur,INST-002,B.Tech Civil Engineering,Round 1,ST,32476
+900000000590,Vivaan Pillai,INST-001,B.Tech Civil Engineering,Round 1,SC,28341
+900000000591,Pooja Chopra,INST-002,B.Tech Civil Engineering,Round 1,EWS,39722
+900000000592,Kavya Ghosh,INST-003,B.Tech Computer Science & Engineering,Round 1,OBC,41402
+900000000593,Shaurya Banerjee,INST-001,B.Tech Computer Science & Engineering,Round 3,SC,22048
+900000000594,Sneha Reddy,INST-003,B.Tech Mechanical Engineering,Round 1,General,17553
+900000000595,Myra Singh,INST-002,B.Tech Electronics & Communication Engineering,Round 2,ST,30184
+900000000596,Vivaan Rao,INST-002,B.Tech Mechanical Engineering,Round 2,OBC,28567
+900000000597,Ishaan Dutta,INST-003,B.Tech Information Technology,Round 3,EWS,20064
+900000000598,Saanvi Dutta,INST-003,B.Tech Electronics & Communication Engineering,Round 3,EWS,42851
+900000000599,Dhruv Dutta,INST-003,B.Tech Electrical & Electronics Engineering,Round 3,OBC,34229
+900000000600,Pooja Kapoor,INST-003,B.Tech Civil Engineering,Round 2,OBC,20039
