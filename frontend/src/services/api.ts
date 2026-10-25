@@ -18,13 +18,17 @@ import {
   AuditIntegrity
 } from '../types';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api';
+export const API_BASE_URL = (
+  import.meta.env.VITE_API_BASE_URL ||
+  'https://apaar-guardian-api.onrender.com/api'
+).replace(/\/+$/, '');
 
 export const apiClient = axios.create({
   baseURL: API_BASE_URL,
   headers: {
     'Content-Type': 'application/json',
   },
+  timeout: 30000, // 30s timeout to handle Render cold-starts gracefully
 });
 
 // Interceptor for JWT Bearer token
@@ -64,6 +68,9 @@ export const authService = {
   getCurrentUser: (): User | null => {
     const data = localStorage.getItem('apaar_user');
     return data ? JSON.parse(data) : null;
+  },
+  getBaseUrl: (): string => {
+    return API_BASE_URL;
   }
 };
 

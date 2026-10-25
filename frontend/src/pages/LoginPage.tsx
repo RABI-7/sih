@@ -60,10 +60,35 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLoginSuccess }) => {
     },
   ];
 
-  const handleSelectAccount = (key: string) => {
+  const handleSelectAccount = async (key: string) => {
     setSelectedKey(key);
     setError(null);
-    setStep('otp');
+    setLoading(true);
+    try {
+      const res = await authService.demoLogin(key);
+      if (res?.demo_otp_hint) {
+        setOtp(res.demo_otp_hint);
+      } else {
+        setOtp('123456');
+      }
+      setStep('otp');
+    } catch (err: any) {
+      if (err.response?.data?.detail) {
+        setError(err.response.data.detail);
+      } else if (err.code === 'ECONNABORTED') {
+        setError(
+          `Connection timed out to ${authService.getBaseUrl()}. Render free tier instances take ~30-50s to wake from sleep. Please try again in a few seconds.`
+        );
+      } else {
+        setError(
+          `Unable to reach backend API at ${authService.getBaseUrl()}. If using Render, the instance may be spinning up from idle, or check your network connection.`
+        );
+      }
+      // Still allow proceeding to OTP step so user can attempt manual submit once server finishes waking
+      setStep('otp');
+    } finally {
+      setLoading(false);
+    }
   };
 
   const handleVerifyOtp = async (e: React.FormEvent) => {
@@ -71,7 +96,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLoginSuccess }) => {
     setError(null);
     setLoading(true);
     try {
-      const data = await authService.verifyOtp(selectedKey, otp);
+      const data = await authService.verifyOtp(selectedKey, otp.trim());
       onLoginSuccess(data.user);
       if (data.user.role === 'compliance_officer') {
         navigate('/compliance');
@@ -81,7 +106,19 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLoginSuccess }) => {
         navigate('/college-dashboard');
       }
     } catch (err: any) {
-      setError(err.response?.data?.detail || 'Invalid demo OTP code. Use 123456');
+      if (err.response?.data?.detail) {
+        setError(err.response.data.detail);
+      } else if (err.code === 'ECONNABORTED') {
+        setError(
+          `Connection timed out to ${authService.getBaseUrl()}. Render free tier instance may still be warming up. Please retry.`
+        );
+      } else if (!err.response) {
+        setError(
+          `Network Error: Failed to reach backend at ${authService.getBaseUrl()}. Check CORS or backend server status.`
+        );
+      } else {
+        setError('Invalid demo OTP code. Use 123456');
+      }
     } finally {
       setLoading(false);
     }
@@ -212,7 +249,11 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLoginSuccess }) => {
             </form>
           )}
 
-          <div className="mt-6 pt-4 border-t border-slate-100 text-center">
+          <div className="mt-6 pt-4 border-t border-slate-100 text-center space-y-2">
+            <div className="inline-flex items-center space-x-1.5 px-2.5 py-1 rounded-full bg-slate-100 text-slate-600 text-[11px] font-mono">
+              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
+              <span>API: {authService.getBaseUrl()}</span>
+            </div>
             <p className="text-[11px] text-slate-400 leading-relaxed">
               Notice: This platform is a functional prototype operating on synthetic data. Not officially affiliated with APAAR, AICTE, or government portals.
             </p>

@@ -15,10 +15,11 @@ def test_health_endpoint():
 
 
 def test_demo_login_flow():
-    # Step 1: Demo login
+    # Step 1: Demo login valid account
     res1 = client.post("/api/auth/demo-login", json={"account_key": "college_admin_1"})
     assert res1.status_code == 200
-    assert "OTP sent" in res1.json()["message"]
+    assert "Demo OTP issued" in res1.json()["message"]
+    assert res1.json()["demo_otp_hint"] == "123456"
 
     # Step 2: Verify OTP
     res2 = client.post("/api/auth/verify-otp", json={"account_key": "college_admin_1", "otp": "123456"})
@@ -27,6 +28,44 @@ def test_demo_login_flow():
     assert "access_token" in token_data
     assert token_data["user"]["role"] == "college_admin"
     assert token_data["user"]["college_id"] == 1
+
+
+def test_demo_login_unsupported_account_key():
+    # Attempting to login with unsupported key should return 400
+    res = client.post("/api/auth/demo-login", json={"account_key": "unsupported_unknown_role"})
+    assert res.status_code == 400
+    assert "Invalid demo account key" in res.json()["detail"]
+
+
+def test_verify_otp_invalid_code():
+    # Attempting wrong OTP returns 401
+    res = client.post("/api/auth/verify-otp", json={"account_key": "college_admin_1", "otp": "999999"})
+    assert res.status_code == 401
+    assert "Invalid OTP" in res.json()["detail"]
+
+
+def test_verify_otp_whitespace_normalization():
+    # Extra whitespace around OTP or account_key should be stripped safely
+    res = client.post("/api/auth/verify-otp", json={"account_key": "  college_admin_1  ", "otp": " 123456 "})
+    assert res.status_code == 200
+    assert "access_token" in res.json()
+
+
+def test_all_supported_demo_roles_login_deterministically():
+    roles = [
+        ("college_admin_1", "college_admin"),
+        ("college_admin_2", "college_admin"),
+        ("compliance_officer", "compliance_officer"),
+        ("verifier", "verifier"),
+    ]
+    for key, expected_role in roles:
+        # Step 1: Request demo login
+        res1 = client.post("/api/auth/demo-login", json={"account_key": key})
+        assert res1.status_code == 200, f"demo-login failed for {key}"
+        # Step 2: Verify with canonical 123456
+        res2 = client.post("/api/auth/verify-otp", json={"account_key": key, "otp": "123456"})
+        assert res2.status_code == 200, f"verify-otp failed for {key}"
+        assert res2.json()["user"]["role"] == expected_role
 
 
 def test_tenant_isolation_enforcement():
